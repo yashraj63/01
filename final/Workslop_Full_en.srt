@@ -1,839 +1,839 @@
 1
-00:00:00,000 --> 00:00:04,125
+00:00:00,000 --> 00:00:03,804
 In the last two years, we saw the
 biggest fear in tech history.
 
 2
-00:00:04,269 --> 00:00:10,140
+00:00:03,834 --> 00:00:09,610
 In 2024 and 2025, from Silicon Valley
 to Bengaluru's corporate boardrooms,
 
 3
-00:00:10,160 --> 00:00:14,350
+00:00:09,640 --> 00:00:14,220
 a belief was built that humans are no
 longer needed,
 
 4
-00:00:14,420 --> 00:00:17,310
+00:00:14,250 --> 00:00:17,050
 and Artificial Intelligence alone will
 do everything.
 
 5
-00:00:17,440 --> 00:00:22,770
+00:00:17,080 --> 00:00:22,415
 And amid this massive hype, IT giants
 started a cost-cutting race
 
 6
-00:00:22,810 --> 00:00:28,070
+00:00:22,445 --> 00:00:28,105
 that has cost them crores of rupees in
 losses throughout 2026.
 
 7
-00:00:28,190 --> 00:00:32,000
+00:00:28,135 --> 00:00:31,400
 This is such a bitter truth that these
 IT companies
 
 8
-00:00:32,020 --> 00:00:36,918
+00:00:31,430 --> 00:00:36,719
 probably don't want to openly accept before the
 public, the media and their investors.
 
 9
-00:00:36,938 --> 00:00:42,620
+00:00:36,749 --> 00:00:42,220
 Until yesterday, the people who were let go
 with the line 'AI will replace you'
 
 10
-00:00:42,660 --> 00:00:46,450
+00:00:42,250 --> 00:00:46,590
 are today being hired back by those
 same companies, out of desperation.
 
 11
-00:00:46,560 --> 00:00:51,880
+00:00:46,620 --> 00:00:52,035
 Reports say 55 percent of employers
 who cut jobs in the name of AI
 
 12
-00:00:51,930 --> 00:00:54,100
+00:00:52,065 --> 00:00:54,664
 now regret these layoffs.
 
 13
-00:00:54,190 --> 00:00:58,400
+00:00:54,694 --> 00:00:58,060
 Meanwhile, another report says two out
 of every three employers
 
 14
-00:00:58,420 --> 00:01:00,970
+00:00:58,090 --> 00:01:00,645
 are now bringing their laid-off
 workers back.
 
 15
-00:01:01,030 --> 00:01:03,310
+00:01:00,675 --> 00:01:03,175
 Of these, 52 percent of HR leaders
 
 16
-00:01:03,330 --> 00:01:07,250
+00:01:03,205 --> 00:01:06,555
 called these employees back within
 just 6 months.
 
 17
-00:01:07,330 --> 00:01:10,493
+00:01:06,585 --> 00:01:11,227
 And 35 percent of companies
 
 18
-00:01:10,513 --> 00:01:13,550
+00:01:11,257 --> 00:01:14,245
 have rehired for more than half of the
 positions they had eliminated.
 
 19
-00:01:13,670 --> 00:01:16,841
+00:01:14,275 --> 00:01:17,280
 Not only that, predictions say that by
 2027,
 
 20
-00:01:16,861 --> 00:01:20,580
+00:01:17,310 --> 00:01:20,300
 half of the companies that cut
 employees in the name of AI
 
 21
-00:01:20,620 --> 00:01:23,200
+00:01:20,330 --> 00:01:22,745
 will bring humans back for those same
 roles,
 
 22
-00:01:23,230 --> 00:01:25,740
+00:01:22,775 --> 00:01:25,300
 just giving them new 'job titles'
 
 23
-00:01:25,780 --> 00:01:28,470
+00:01:25,330 --> 00:01:28,470
 so the world doesn't see their U-turn.
 
 24
-00:01:30,734 --> 00:01:35,980
+00:01:30,547 --> 00:01:35,860
 Globally, in the name of 'restructuring' and
 'AI growth', Amazon eliminated
 
 25
-00:01:35,980 --> 00:01:38,148
+00:01:35,890 --> 00:01:38,358
 thousands of corporate roles...
 
 26
-00:01:38,456 --> 00:01:43,910
+00:01:38,388 --> 00:01:43,445
 while tech companies like Meta and Microsoft
 fired thousands of employees in
 
 27
-00:01:43,910 --> 00:01:47,211
+00:01:43,475 --> 00:01:47,885
 one stroke to fund their heavy AI
 investments.
 
 28
-00:01:47,509 --> 00:01:49,685
+00:01:47,915 --> 00:01:49,685
 And this had a direct impact on India!
 
 29
-00:01:50,126 --> 00:01:56,195
+00:01:50,583 --> 00:01:56,367
 India's IT sector, always known for its 'bench
 strength', took the same path
 
 30
-00:01:56,195 --> 00:01:56,514
+00:01:56,397 --> 00:01:57,197
 too.
 
 31
-00:01:56,810 --> 00:02:02,093
+00:01:57,197 --> 00:02:02,096
 Lured by AI automation, India's top five IT
 companies cut their traditional
 
 32
-00:02:02,093 --> 00:02:07,377
+00:02:02,126 --> 00:02:07,796
 bench strength considerably, pushing
 nearly 75,000 people out of the system
 
 33
-00:02:07,651 --> 00:02:13,381
+00:02:07,826 --> 00:02:13,767
 and in FY26 these companies together
 cut more than 7,000 positions.
 
 34
-00:02:13,594 --> 00:02:18,439
+00:02:13,797 --> 00:02:18,989
 Of this, TCS's headcount alone fell by
 more than 23,000, which even the net
 
 35
-00:02:18,439 --> 00:02:21,993
+00:02:19,019 --> 00:02:21,993
 hiring of the other four IT firms
 couldn't make up for!
 
 36
-00:02:22,348 --> 00:02:27,892
+00:02:22,334 --> 00:02:27,836
 Conditions were made so strict that TCS
 practically capped its annual bench
 
 37
-00:02:27,892 --> 00:02:30,405
+00:02:27,866 --> 00:02:30,677
 duration at just 35 business days,
 
 38
-00:02:30,653 --> 00:02:34,768
+00:02:30,707 --> 00:02:34,194
 meaning if you don't get a new project
 within 35 days, you can face a
 
 39
-00:02:34,768 --> 00:02:38,584
+00:02:34,224 --> 00:02:39,461
 demotion, a pay cut, or even be fired
 from the company outright.
 
 40
-00:02:38,902 --> 00:02:43,580
+00:02:39,491 --> 00:02:44,120
 Similarly, Infosys and other big players
 quietly showed thousands of people
 
 41
-00:02:43,580 --> 00:02:47,572
+00:02:44,150 --> 00:02:47,529
 the door in the name of 'assessment
 failures' and restructuring.
 
 42
-00:02:47,838 --> 00:02:51,095
+00:02:47,559 --> 00:02:51,095
 Many of these employees also became
 victims of silent layoffs.
 
 43
-00:02:51,501 --> 00:02:55,455
+00:02:51,831 --> 00:02:54,938
 The logic of those top executives in
 the boardrooms was very simple at the
 
 44
-00:02:55,455 --> 00:02:55,722
+00:02:54,968 --> 00:02:56,496
 time:
 
 45
-00:02:56,013 --> 00:03:01,359
+00:02:56,526 --> 00:03:01,789
 what takes a mid-level human developer
 weeks to code, the new AI tool would
 
 46
-00:03:01,359 --> 00:03:02,784
+00:03:01,819 --> 00:03:02,641
 generate in seconds.
 
 47
-00:03:03,063 --> 00:03:06,945
+00:03:02,671 --> 00:03:07,312
 They thought this automation would
 double their profit margin.
 
 48
-00:03:07,205 --> 00:03:12,641
+00:03:07,342 --> 00:03:13,131
 But they had no idea that this rush to
 automate was leading them toward the
 
 49
-00:03:12,641 --> 00:03:15,250
+00:03:13,161 --> 00:03:15,250
 most expensive U-turn in IT history.
 
 50
-00:03:17,499 --> 00:03:22,278
+00:03:17,430 --> 00:03:22,149
 But as soon as companies, in the chase
 to save costs, let go of experienced
 
 51
-00:03:22,278 --> 00:03:26,420
+00:03:22,179 --> 00:03:26,799
 human developers and started putting
 AI on real-world projects...
 
 52
-00:03:26,619 --> 00:03:31,464
+00:03:26,829 --> 00:03:31,702
 a new and extremely costly problem emerged,
 one the tech industry is calling
 
 53
-00:03:31,464 --> 00:03:32,357
+00:03:31,732 --> 00:03:32,532
 'AI Workslop'!
 
 54
-00:03:32,723 --> 00:03:37,864
+00:03:32,723 --> 00:03:37,874
 Workslop means that low-quality,
 superficial work generated by AI
 
 55
-00:03:38,049 --> 00:03:42,281
+00:03:37,904 --> 00:03:42,270
 which looks very polished on the
 surface, but when you run it in a real
 
 56
-00:03:42,281 --> 00:03:46,275
+00:03:42,300 --> 00:03:46,055
 business system, turns out to be
 factually wrong and without logic.
 
 57
-00:03:46,651 --> 00:03:51,275
+00:03:46,085 --> 00:03:51,642
 In 2026, the reality of this workslop
 has become even more dangerous.
 
 58
-00:03:51,544 --> 00:03:57,078
+00:03:51,672 --> 00:03:57,309
 According to the 2026 Developer Survey, 53
 percent of developers believe AI
 
 59
-00:03:57,078 --> 00:04:02,390
+00:03:57,339 --> 00:04:02,425
 generates code that looks correct at
 first glance but may contain hidden
 
 60
-00:04:02,390 --> 00:04:05,194
+00:04:02,455 --> 00:04:05,065
 defects, and can't be blindly trusted.
 
 61
-00:04:05,470 --> 00:04:10,302
+00:04:05,095 --> 00:04:10,441
 And over 40 percent of developers say
 AI is increasing technical debt by
 
 62
-00:04:10,302 --> 00:04:15,402
+00:04:10,471 --> 00:04:15,671
 generating unnecessary and duplicate code,
 making the whole system even more
 
 63
-00:04:15,402 --> 00:04:15,939
+00:04:15,701 --> 00:04:16,501
 complex.
 
 64
-00:04:16,205 --> 00:04:20,698
+00:04:16,501 --> 00:04:20,668
 The situation is that 96 percent of
 developers don't blindly trust
 
 65
-00:04:20,698 --> 00:04:24,238
+00:04:20,698 --> 00:04:24,571
 AI-generated code without manual
 review and testing.
 
 66
-00:04:24,561 --> 00:04:27,509
+00:04:24,601 --> 00:04:27,335
 But the problem isn't limited to AI's
 output alone.
 
 67
-00:04:27,769 --> 00:04:33,777
+00:04:27,365 --> 00:04:33,538
 GitLab's 2026 research shows 82 percent of
 developers believe that with AI's
 
 68
-00:04:33,777 --> 00:04:39,548
+00:04:33,568 --> 00:04:39,924
 growing use, organizations may face
 challenges that companies are not yet
 
 69
-00:04:39,548 --> 00:04:41,524
+00:04:39,954 --> 00:04:42,356
 fully prepared to handle.
 
 70
-00:04:41,811 --> 00:04:43,523
+00:04:42,385 --> 00:04:43,322
 AI was writing basic code...
 
 71
-00:04:43,744 --> 00:04:48,436
+00:04:43,352 --> 00:04:47,828
 but integrating it with the client's complex
 requirements, deep architecture
 
 72
-00:04:48,436 --> 00:04:52,820
+00:04:47,858 --> 00:04:52,820
 and real-world business logic... was
 impossible without the human mind!
 
 73
-00:04:57,284 --> 00:05:01,771
+00:04:57,562 --> 00:05:01,175
 This Workslop has created such a huge
 gap between AI's success story and
 
 74
-00:05:01,771 --> 00:05:04,824
+00:05:01,205 --> 00:05:05,502
 ground reality that it is now
 impossible to hide.
 
 75
-00:05:04,904 --> 00:05:11,000
+00:05:05,532 --> 00:05:11,710
 2026 enterprise data revealed a shocking
 reality of AI adoption: in India,
 
 76
-00:05:11,000 --> 00:05:17,013
+00:05:11,740 --> 00:05:17,236
 59 percent of companies cannot scale
 AI beyond the pilot across the whole
 
 77
-00:05:17,013 --> 00:05:17,754
+00:05:17,266 --> 00:05:18,066
 business.
 
 78
-00:05:17,794 --> 00:05:22,182
+00:05:18,066 --> 00:05:21,741
 According to research, in more than
 half of Indian organisations, the
 
 79
-00:05:22,182 --> 00:05:26,823
+00:05:21,771 --> 00:05:27,261
 production conversion rate of AI pilots is
 below 10 percent, and only 6.7
 
 80
-00:05:26,823 --> 00:05:31,338
+00:05:27,291 --> 00:05:30,719
 percent of Indian companies have
 successfully scaled AI across multiple
 
 81
-00:05:31,338 --> 00:05:31,974
+00:05:30,749 --> 00:05:32,247
 workflows.
 
 82
-00:05:31,994 --> 00:05:37,169
+00:05:32,277 --> 00:05:37,475
 And the reason is not a technical
 limitation, but companies' fragmented,
 
 83
-00:05:37,169 --> 00:05:42,488
+00:05:37,505 --> 00:05:42,814
 poor data foundations and weak internal
 governance. A model that shines on
 
 84
-00:05:42,488 --> 00:05:47,304
+00:05:42,844 --> 00:05:47,992
 clean lab data collapses the moment it
 meets real-world operations.
 
 85
-00:05:47,404 --> 00:05:53,885
+00:05:48,022 --> 00:05:53,993
 Research shows nearly 40 percent of
 the time AI saves employees is wasted
 
 86
-00:05:53,885 --> 00:05:59,034
+00:05:54,022 --> 00:05:59,137
 again on fixing mistakes, verifying
 outputs and reworking.
 
 87
-00:05:59,054 --> 00:06:03,185
+00:05:59,167 --> 00:06:02,542
 And despite this, companies, without
 understanding ground reality, are
 
 88
-00:06:03,185 --> 00:06:07,494
+00:06:02,572 --> 00:06:07,242
 spending millions of dollars a year on
 tools that are practically broken.
 
 89
-00:06:07,544 --> 00:06:12,959
+00:06:07,272 --> 00:06:12,549
 According to an industry survey, Indian mid-
 market companies are losing 27
 
 90
-00:06:12,959 --> 00:06:18,155
+00:06:12,579 --> 00:06:18,027
 percent of their AI budget just handling
 this system complexity, with a
 
 91
-00:06:18,155 --> 00:06:22,034
+00:06:18,057 --> 00:06:22,034
 total annual financial impact of
 nearly 33,000 crore.
 
 92
-00:06:24,814 --> 00:06:29,349
+00:06:24,167 --> 00:06:28,865
 When projects started getting delayed
 and client deliveries began to suffer,
 
 93
-00:06:29,349 --> 00:06:33,824
+00:06:28,894 --> 00:06:33,572
 companies started to realise the real
 cost of their cost-cutting decisions.
 
 94
-00:06:33,844 --> 00:06:39,514
+00:06:33,602 --> 00:06:38,947
 The IT companies that showed experienced
 developers the door to save costs
 
 95
-00:06:39,514 --> 00:06:44,494
+00:06:38,977 --> 00:06:44,057
 now realised that losing senior talent
 was their biggest mistake.
 
 96
-00:06:44,614 --> 00:06:50,014
+00:06:44,087 --> 00:06:49,477
 According to industry estimates, the total
 cost of letting go of a mid-level
 
 97
-00:06:50,014 --> 00:06:55,414
+00:06:49,507 --> 00:06:55,577
 technical or managerial employee and hiring
 and training a new one can be 40
 
 98
-00:06:55,414 --> 00:06:58,114
+00:06:55,607 --> 00:06:58,174
 to 200 percent of their annual salary.
 
 99
-00:06:58,204 --> 00:07:03,166
+00:06:58,204 --> 00:07:02,853
 Today, 73 percent of organisations admit that
 the fire-and-rehire cycle is
 
 100
-00:07:03,166 --> 00:07:07,793
+00:07:02,883 --> 00:07:07,866
 turning out far more expensive than
 retaining and redeploying current
 
 101
-00:07:07,793 --> 00:07:08,464
+00:07:07,896 --> 00:07:08,696
 employees.
 
 102
-00:07:08,484 --> 00:07:13,412
+00:07:08,696 --> 00:07:13,076
 The same HR leaders also reported team
 instability and loss of critical
 
 103
-00:07:13,412 --> 00:07:18,479
+00:07:13,106 --> 00:07:17,870
 skills, because when you let go of an
 old employee, you don't just lose a
 
 104
-00:07:18,479 --> 00:07:23,546
+00:07:17,899 --> 00:07:23,293
 coder. You lose years of that client's
 memory, trust and understanding of
 
 105
-00:07:23,546 --> 00:07:24,934
+00:07:23,323 --> 00:07:24,934
 system architecture.
 
 106
-00:07:28,135 --> 00:07:33,429
+00:07:28,727 --> 00:07:34,084
 After realising their multi-crore mistake,
 these tech giants started a new
 
 107
-00:07:33,429 --> 00:07:38,508
+00:07:34,114 --> 00:07:38,074
 trend: Boomerang Hiring, a homecoming
 for their own laid-off employees.
 
 108
-00:07:38,528 --> 00:07:42,766
+00:07:38,104 --> 00:07:43,113
 Reports say 68 percent of the new hires in
 the IT and tech sector today are
 
 109
-00:07:42,766 --> 00:07:44,292
+00:07:43,143 --> 00:07:44,282
 returning former employees.
 
 110
-00:07:44,312 --> 00:07:50,256
+00:07:44,312 --> 00:07:50,558
 In India too, companies have become
 aggressive about bringing ex-employees
 
 111
-00:07:50,256 --> 00:07:56,199
+00:07:50,588 --> 00:07:56,310
 back, with 76 percent of Indian HR leaders
 openly accepting this boomerang
 
 112
-00:07:56,199 --> 00:07:56,601
+00:07:56,340 --> 00:07:57,140
 wave.
 
 113
-00:07:56,621 --> 00:08:01,200
+00:07:57,140 --> 00:08:01,270
 Top companies like EY India, Infosys
 and Deloitte are activating their
 
 114
-00:08:01,200 --> 00:08:05,387
+00:08:01,300 --> 00:08:05,853
 alumni networks and sending direct
 outreach to former employees.
 
 115
-00:08:05,407 --> 00:08:09,367
+00:08:05,883 --> 00:08:09,173
 Even Google has filled 20 percent of
 its new AI engineering roles with
 
 116
-00:08:09,367 --> 00:08:10,385
+00:08:09,203 --> 00:08:10,952
 boomerang workers.
 
 117
-00:08:10,405 --> 00:08:16,297
+00:08:10,982 --> 00:08:16,438
 And the reason is simple: boomerang
 employees settle in quickly, stay more
 
 118
-00:08:16,297 --> 00:08:21,791
+00:08:16,468 --> 00:08:21,645
 engaged and stay longer than new
 hires, because they already know the
 
 119
-00:08:21,791 --> 00:08:25,931
+00:08:21,675 --> 00:08:26,245
 company's systems, culture and client
 relationships.
 
 120
-00:08:25,951 --> 00:08:31,101
+00:08:26,275 --> 00:08:31,720
 But behind this Boomerang Hiring lies
 another, much bigger reality: Reverse
 
 121
-00:08:31,101 --> 00:08:36,182
+00:08:31,750 --> 00:08:35,821
 Migration. According to recent 2026
 industry surveys, 53 percent of Indian
 
 122
-00:08:36,182 --> 00:08:40,920
+00:08:35,851 --> 00:08:40,880
 tech professionals have seen talent
 coming back to India from the US.
 
 123
-00:08:40,940 --> 00:08:45,336
+00:08:40,910 --> 00:08:45,718
 MNCs like Amazon, Walmart and Uber are
 taking advantage of visa
 
 124
-00:08:45,336 --> 00:08:49,802
+00:08:45,748 --> 00:08:49,271
 uncertainties and cost pressure in the
 US to send highly skilled
 
 125
-00:08:49,802 --> 00:08:54,686
+00:08:49,301 --> 00:08:54,333
 Indian-origin developers back to India
 and employ them in their Global
 
 126
-00:08:54,686 --> 00:08:56,012
+00:08:54,363 --> 00:08:56,306
 Capability Centres.
 
 127
-00:08:56,032 --> 00:09:01,076
+00:08:56,336 --> 00:09:01,588
 Of these, 58 percent of Walmart employees and
 57 percent of Amazon employees
 
 128
-00:09:01,076 --> 00:09:04,594
+00:09:01,618 --> 00:09:04,537
 have directly observed this reverse
 talent migration.
 
 129
-00:09:04,614 --> 00:09:09,576
+00:09:04,567 --> 00:09:09,238
 So one thing is clear: whether it's
 Boomerang Hiring or Reverse Migration,
 
 130
-00:09:09,576 --> 00:09:14,672
+00:09:09,268 --> 00:09:14,586
 the tech industry is no longer just hiring
 employees, it is finding new ways
 
 131
-00:09:14,672 --> 00:09:16,885
+00:09:14,616 --> 00:09:16,885
 to bring experienced talent back.
 
 132
-00:09:19,939 --> 00:09:24,470
+00:09:20,350 --> 00:09:23,925
 IT companies thought that after layoffs, the
 balance of power had shifted
 
 133
-00:09:24,470 --> 00:09:29,001
+00:09:23,955 --> 00:09:28,591
 completely in their favour. But when
 these boomerang employees came back,
 
 134
-00:09:29,001 --> 00:09:30,677
+00:09:28,620 --> 00:09:30,559
 the whole game had changed.
 
 135
-00:09:30,697 --> 00:09:35,568
+00:09:30,589 --> 00:09:35,254
 Companies are no longer paying just
 for old experience. They are paying
 
 136
-00:09:35,568 --> 00:09:40,714
+00:09:35,284 --> 00:09:40,367
 heavy salary premiums for critical skills.
 Today, professionals with AI and
 
 137
-00:09:40,714 --> 00:09:45,928
+00:09:40,397 --> 00:09:45,444
 advanced tech skills can get a 30 to 40
 percent extra premium in the market.
 
 138
-00:09:45,948 --> 00:09:51,186
+00:09:45,474 --> 00:09:51,643
 That means if an employee knows the
 company's old business context and has
 
 139
-00:09:51,186 --> 00:09:56,282
+00:09:51,673 --> 00:09:56,591
 also upskilled with AI and automation
 tools, their value in the industry
 
 140
-00:09:56,282 --> 00:09:57,414
+00:09:56,620 --> 00:09:57,450
 rises even more.
 
 141
-00:09:57,480 --> 00:10:02,574
+00:09:57,480 --> 00:10:02,777
 But this doesn't mean the market is
 closed for freshers. TCS hired 44,000
 
 142
-00:10:02,574 --> 00:10:07,808
+00:10:02,807 --> 00:10:07,874
 freshers in FY26, while Infosys onboarded
 more than 20,000 freshers and has
 
 143
-00:10:07,808 --> 00:10:12,344
+00:10:07,904 --> 00:10:12,502
 set further hiring plans. So demand
 for entry-level talent hasn't
 
 144
-00:10:12,344 --> 00:10:16,880
+00:10:12,532 --> 00:10:17,420
 disappeared completely, expectations
 from them have just changed.
 
 145
-00:10:16,900 --> 00:10:22,229
+00:10:17,450 --> 00:10:22,325
 According to industry reports, demand
 for AI professionals in India is
 
 146
-00:10:22,229 --> 00:10:27,787
+00:10:22,355 --> 00:10:27,864
 estimated to reach 1.4 million, while
 the available talent pool is around
 
 147
-00:10:27,787 --> 00:10:28,396
+00:10:27,894 --> 00:10:28,693
 400,000.
 
 148
-00:10:28,416 --> 00:10:33,874
+00:10:28,693 --> 00:10:33,667
 So there is a big gap between demand and
 supply of AI skills, and that's why
 
 149
-00:10:33,874 --> 00:10:39,188
+00:10:33,697 --> 00:10:38,924
 companies no longer want blind mass
 hiring. They want developers who don't
 
 150
-00:10:39,188 --> 00:10:44,646
+00:10:38,954 --> 00:10:44,573
 just get AI to generate code, but can
 understand its errors, review and test
 
 151
-00:10:44,646 --> 00:10:47,303
+00:10:44,603 --> 00:10:47,511
 the code, and make it business-ready.
 
 152
-00:10:47,323 --> 00:10:50,339
+00:10:47,541 --> 00:10:50,339
 And this is today's real salary
 reality.
 
 153
-00:10:53,144 --> 00:10:56,273
+00:10:53,492 --> 00:10:56,476
 So, is the AI hype about to end? Not
 at all.
 
 154
-00:10:56,293 --> 00:11:02,223
+00:10:56,506 --> 00:11:02,281
 AI isn't going anywhere. Companies are
 using AI even more aggressively than
 
 155
-00:11:02,223 --> 00:11:07,994
+00:11:02,311 --> 00:11:08,327
 before. Only one thing has changed:
 their expectations of AI. Earlier the
 
 156
-00:11:07,994 --> 00:11:13,766
+00:11:08,357 --> 00:11:13,853
 question was how many people AI can
 replace. Now the question is how much
 
 157
-00:11:13,766 --> 00:11:16,138
+00:11:13,883 --> 00:11:16,209
 more work can be done with AI.
 
 158
-00:11:16,158 --> 00:11:20,398
+00:11:16,239 --> 00:11:20,749
 A big example of this is seen in India's IT
 industry, where India's leading
 
 159
-00:11:20,398 --> 00:11:24,639
+00:11:20,779 --> 00:11:24,130
 IT companies together have taken more
 than 400,000 Microsoft Copilot seats.
 
 160
-00:11:24,639 --> 00:11:28,823
+00:11:24,159 --> 00:11:28,301
 So AI is no longer an experimental tool. It
 is becoming part of employees'
 
 161
-00:11:28,823 --> 00:11:29,671
+00:11:28,331 --> 00:11:29,975
 daily workflow.
 
 162
-00:11:29,691 --> 00:11:35,541
+00:11:30,005 --> 00:11:35,561
 At TCS, 86 percent of employees who use
 Copilot use it daily, and at Wipro,
 
 163
-00:11:35,541 --> 00:11:40,923
+00:11:35,591 --> 00:11:41,272
 monthly active Copilot usage has
 crossed 95 percent. According to the
 
 164
-00:11:40,923 --> 00:11:46,383
+00:11:41,302 --> 00:11:47,022
 company, AI is saving effort equal to
 about 250,000 working days every
 
 165
-00:11:46,383 --> 00:11:47,007
+00:11:47,052 --> 00:11:47,851
 quarter.
 
 166
-00:11:47,027 --> 00:11:52,828
+00:11:47,851 --> 00:11:53,004
 So AI's impact is no longer limited to
 presentations. Companies are actually
 
 167
-00:11:52,828 --> 00:11:54,812
+00:11:53,034 --> 00:11:55,346
 getting work done with AI.
 
 168
-00:11:54,832 --> 00:11:58,550
+00:11:55,376 --> 00:11:58,465
 But here's an important catch: as AI
 becomes more powerful, the developer's
 
 169
-00:11:58,550 --> 00:12:00,235
+00:11:58,495 --> 00:12:00,577
 role isn't ending, it is evolving.
 
 170
-00:12:00,255 --> 00:12:05,832
+00:12:00,607 --> 00:12:05,802
 In the 2026 developer ecosystem
 survey, 68 percent of professional
 
 171
-00:12:05,832 --> 00:12:11,325
+00:12:05,832 --> 00:12:11,763
 developers said they use AI coding
 agents in their daily routine.
 
 172
-00:12:11,345 --> 00:12:17,255
+00:12:11,793 --> 00:12:17,077
 So a developer's value will no longer
 be decided just by coding speed.
 
 173
-00:12:17,255 --> 00:12:23,165
+00:12:17,107 --> 00:12:22,673
 Guiding AI effectively, verifying its
 output and making sound business
 
 174
-00:12:23,165 --> 00:12:27,724
+00:12:22,702 --> 00:12:27,722
 decisions are becoming more and more
 important skills.
 
 175
-00:12:27,744 --> 00:12:32,895
+00:12:27,752 --> 00:12:32,865
 That's why treating AI as an autopilot
 was the biggest mistake. It is, in
 
@@ -842,102 +842,102 @@ was the biggest mistake. It is, in
 fact, a copilot.
 
 177
-00:12:37,146 --> 00:12:40,956
+00:12:37,673 --> 00:12:41,258
 So what is the ultimate lesson of this
 whole corporate battle?
 
 178
-00:12:40,976 --> 00:12:46,113
+00:12:41,288 --> 00:12:46,666
 What do the numbers say at the end of
 2026 about the Job Apocalypse fear
 
 179
-00:12:46,113 --> 00:12:49,966
+00:12:46,696 --> 00:12:49,843
 spread in 2024 and 2025? Will jobs
 really end forever?
 
 180
-00:12:49,986 --> 00:12:56,561
+00:12:49,873 --> 00:12:55,830
 According to a World Economic Forum
 report, 170 million new jobs are
 
 181
-00:12:56,561 --> 00:13:03,329
+00:12:55,860 --> 00:13:03,954
 projected to be created globally by
 2030, while 92 million jobs may be
 
 182
-00:13:03,329 --> 00:13:04,296
+00:13:03,984 --> 00:13:04,784
 displaced.
 
 183
-00:13:04,316 --> 00:13:06,866
+00:13:04,784 --> 00:13:06,853
 That is a net addition of 78 million
 jobs at the global level.
 
 184
-00:13:06,886 --> 00:13:13,532
+00:13:06,883 --> 00:13:12,796
 And speaking of India alone, emerging
 technologies and AI transformation
 
 185
-00:13:13,532 --> 00:13:18,516
+00:13:12,826 --> 00:13:18,178
 will add more than 3 million new tech
 workers by 2030,
 
 186
-00:13:18,536 --> 00:13:24,397
+00:13:18,208 --> 00:13:24,048
 while Agentic AI could redefine more
 than 10.3 million jobs in India.
 
 187
-00:13:24,397 --> 00:13:30,852
+00:13:24,078 --> 00:13:30,956
 Meanwhile, the AI economy could create
 around 4 million new jobs in the next
 
 188
-00:13:30,852 --> 00:13:31,786
+00:13:30,986 --> 00:13:31,786
 five years.
 
 189
-00:13:31,806 --> 00:13:36,671
+00:13:31,806 --> 00:13:36,065
 But new jobs being created doesn't
 mean opportunities will be easy for
 
 190
-00:13:36,671 --> 00:13:37,296
+00:13:36,095 --> 00:13:37,286
 everyone.
 
 191
-00:13:37,316 --> 00:13:43,115
+00:13:37,316 --> 00:13:42,608
 In India, AI is already performing about 37
 percent of entry-level tasks. So
 
 192
-00:13:43,115 --> 00:13:48,684
+00:13:42,638 --> 00:13:47,992
 new jobs are coming, but both the path
 to reach them and the hiring rules
 
 193
-00:13:48,684 --> 00:13:49,676
+00:13:48,022 --> 00:13:49,898
 are changing.
 
 194
-00:13:49,696 --> 00:13:53,866
+00:13:49,928 --> 00:13:53,413
 And this is where the biggest mistake
 of those companies comes into view.
 
 195
-00:13:53,926 --> 00:13:59,357
+00:13:53,443 --> 00:13:59,828
 In the race for automation, companies
 cut costs but also lost the human
 
 196
-00:13:59,357 --> 00:14:05,094
+00:13:59,858 --> 00:14:05,677
 experience they would later need again.
 Because technology can be upgraded,
 
 197
-00:14:05,094 --> 00:14:10,066
+00:14:05,707 --> 00:14:10,066
 but years of experience can't be
 created at the push of a button.
